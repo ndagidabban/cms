@@ -1,0 +1,9 @@
+plugins/
+css/
+js/
+public/
+bower_components/
+dist/
+vendor/
+phpmyadmin
+nmd/
