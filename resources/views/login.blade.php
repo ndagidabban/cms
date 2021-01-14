@@ -1,14 +1,8 @@
 <!--
 =========================================================
-Material Dashboard PRO - v2.1.2
+M. Dabban
 =========================================================
-
-Product Page: https://www.creative-tim.com/product/material-dashboard-pro
-Copyright 2020 Creative Tim (https://www.creative-tim.com)
-Coded by Creative Tim
-
-=========================================================
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. -->
+ -->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -18,7 +12,7 @@ The above copyright notice and this permission notice shall be included in all c
   <link rel="icon" type="image/png" href="../../assets/img/favicon.png">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <title>
-    Material Dashboard PRO by Creative Tim
+    LifeBits Login Form
   </title>
   <meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
   <!--     Fonts and icons     -->
@@ -46,25 +40,25 @@ The above copyright notice and this permission notice shall be included in all c
       <div class="collapse navbar-collapse justify-content-end">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a href="../dashboard.html" class="nav-link">
+            <a href="login" class="nav-link">
               <i class="material-icons">dashboard</i>
               Dashboard
             </a>
           </li>
           <li class="nav-item ">
-            <a href="../pages/register.html" class="nav-link">
+            <a href="register" class="nav-link">
               <i class="material-icons">person_add</i>
               Register
             </a>
           </li>
           <li class="nav-item  active ">
-            <a href="../pages/login.html" class="nav-link">
+            <a href="login" class="nav-link">
               <i class="material-icons">fingerprint</i>
               Login
             </a>
           </li>
           <li class="nav-item ">
-            <a href="../pages/lock.html" class="nav-link">
+            <a href="#" class="nav-link">
               <i class="material-icons">lock_open</i>
               Lock
             </a>
@@ -97,7 +91,7 @@ The above copyright notice and this permission notice shall be included in all c
                   </div>
                 </div>
                 <div class="card-body ">
-                  <p class="card-description text-center">Or Be Classical</p>
+                  <p class="card-description text-center">Fill in your credentials correctly</p>
                   <span class="bmd-form-group">
                     <div class="input-group">
                       <div class="input-group-prepend">
@@ -105,7 +99,7 @@ The above copyright notice and this permission notice shall be included in all c
                           <i class="material-icons">face</i>
                         </span>
                       </div>
-                      <input type="text" class="form-control" placeholder="First Name...">
+                      <input type="text" class="form-control" placeholder="SurName...">
                     </div>
                   </span>
                   <span class="bmd-form-group">
@@ -130,7 +124,8 @@ The above copyright notice and this permission notice shall be included in all c
                   </span>
                 </div>
                 <div class="card-footer justify-content-center">
-                  <a href="#pablo" class="btn btn-rose btn-link btn-lg">Lets Go</a>
+                  <a href="#pablo" class="btn btn-rose btn-link btn-lg">Log in</a>
+                  <i class="material-icons">fingerprint</i>
                 </div>
               </div>
             </form>
@@ -142,23 +137,8 @@ The above copyright notice and this permission notice shall be included in all c
           <nav class="float-left">
             <ul>
               <li>
-                <a href="https://www.creative-tim.com/">
-                  Creative Tim
-                </a>
-              </li>
-              <li>
-                <a href="https://www.creative-tim.com/presentation">
-                  About Us
-                </a>
-              </li>
-              <li>
-                <a href="https://www.creative-tim.com/blog">
-                  Blog
-                </a>
-              </li>
-              <li>
-                <a href="https://www.creative-tim.com/license">
-                  Licenses
+                <a href="#">
+                  Information Technology for Humanity..
                 </a>
               </li>
             </ul>
@@ -167,8 +147,8 @@ The above copyright notice and this permission notice shall be included in all c
             &copy;
             <script>
               document.write(new Date().getFullYear())
-            </script>, made with <i class="material-icons">favorite</i> by
-            <a href="https://www.creative-tim.com/" target="_blank">Creative Tim</a> for a better web.
+            </script>, Marvel Networks <i class="material-icons">favorite</i> |
+            <a href="https://www.marvelnetworks.com.ng/" target="_blank">LifeBits</a> 
           </div>
         </div>
       </footer>
