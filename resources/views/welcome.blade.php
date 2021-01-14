@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>Marvel Lifebits Networks</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Marvel Lifebits is Creative Website Template" name="description">
+    <meta content="Marvel Networks" name="description">
     <meta content="" name="keywords">
     <meta content="" name="author">
 
@@ -54,14 +54,13 @@
 				<div class="container">
 					<div class="topbar-left">
 						<span class="topbar-widget">
-							<a href="#"><strong>NEW: You can insert any text here...</strong></a>
+							<a href="#"><strong>Information Technology for Humanity...</strong></a>
 						</span>
 					</div>
 				
 					<div class="topbar-right">
-						<div class="topbar-widget sm-hide"><a href="#"><i class="fa fa-phone"></i>+208 333 9296</a></div>
+						<div class="topbar-widget sm-hide"><a href="#"><i class="fa fa-phone"></i>+234 8012345678</a></div>
 						<div class="topbar-widget sm-hide"><a href="#"><i class="fa fa-envelope-o"></i>Support</a></div>
-						<div class="topbar-widget"><a href="#"><i class="fa fa-shopping-cart"></i><span class="sm-hide">Cart</span></a></div>
 					</div>	
 					<div class="clearfix"></div>
 				</div>
@@ -75,14 +74,14 @@
                             <div class="header-col left">
                                 <!-- logo begin -->
                                 <div id="logo">
-                                    <a href="index.html"><img alt="" class="logo" src="images/logo-light.png"> <img alt="" class="logo-2" src="images/logo-dark.png"></a>
+                                    <a href="/"><img alt="" class="logo" src="images/mnlogo.png" width="100" height="90"> <img alt="" class="logo-2" src="images/mnlogo.png"width="100" height="90"></a>
                                 </div>
                                 <!-- logo close -->
                             </div>
                             <div class="header-col mid">
                                 <!-- mainmenu begin -->
                                 <ul id="mainmenu">
-                                    <li><a href="index.html">Home<span>New</span></a>
+                                    <li><a href="/">Home<span>New</span></a>
 										<!--<ul>
                                             <li><a href="index.html">Homepage 1</a></li>
                                             <li><a href="index-2.html">Homepage 2</a></li>
@@ -107,14 +106,14 @@
                                     </li>
 									<li><a href="#">Products</a>
                                         <ul>		
-											<li><a href="website-builder.html">Builder</a></li>										
-                                            <li><a href="news.html">News</a></li>
-											<li><a href="search-results.html">Search Results</a></li>
-                                            <li><a href="features.html">Features</a></li>
-                                            <li><a href="maintenance.html">Maintenance</a></li>
-											<li><a href="icons-elegant.html">Elegant Icons</a></li>
-											<li><a href="icons-etline.html">Etline Icons</a></li>
-											<li><a href="icons-fontawesome.html">Font Awesome Icons</a></li>
+											<li><a href="projectpage">Lifebits</a></li>										
+                                            <li><a href="#">News</a></li>
+											<li><a href="#">Search Results</a></li>
+                                            <li><a href="#">Features</a></li>
+                                            <li><a href="#">Maintenance</a></li>
+											<li><a href="#">Elegant Icons</a></li>
+											<li><a href="#">Etline Icons</a></li>
+											<li><a href="#">Font Awesome Icons</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="domain.html">Domain</a></li>
@@ -145,7 +144,7 @@
                     <ul>
                         <li data-masterspeed="1500" data-slotamount="10" data-transition="fade">
                             <!--  BACKGROUND IMAGE -->
-                            <img alt="" class="rev-slidebg" data-bgparallax="15" data-bgposition="center center" data-duration="20000" data-ease="Power1.easeOut" data-kenburns="off" data-lazyload="images/slider/1.jpg" data-no-retina="" data-offsetend="0 0" data-offsetstart="0 0" data-rotateend="0" data-rotatestart="0" data-scaleend="100" data-scalestart="110" src="images/slider/1.jpg">
+                            <img alt="" class="rev-slidebg" data-bgparallax="15" data-bgposition="center center" data-duration="20000" data-ease="Power1.easeOut" data-kenburns="off" data-lazyload="images/slider/1_new.png" data-no-retina="" data-offsetend="0 0" data-offsetstart="0 0" data-rotateend="0" data-rotatestart="0" data-scaleend="100" data-scalestart="110" src="images/slider/1.jpg">
 
                             <div class="tp-caption custom-font-1" data-height="none" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="1000" data-transform_in="y:-100px;opacity:0;s:800;e:Power2.easeOut;" data-transform_out="opacity:0;y:-20;s:500;e:Power2.easeInOut;" data-whitespace="nowrap" data-width="none" data-x="20" data-y="230">
                                 Welcome to Marvel Lifebits Networks
@@ -212,7 +211,9 @@
                             <div class="feature-box-type-1">
                                 <i class="icon-ribbon"></i>
                                 <div class="text">
-                                    <h3>Our Mission</h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                    <h3>Our Mission</h3>To create an enabling environment committed to acquiring the most latest technological advancement 
+                                    in data capturing as events unfold to achieve many things that were previously thought to be impossible in the modern 
+                                    age. 
                                 </div>
                             </div>
                         </div>
@@ -220,7 +221,7 @@
                             <div class="feature-box-type-1 hover">
                                 <i class="icon-speedometer"></i>
                                 <div class="text">
-                                    <h3 class="">Our Vision</h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                    <h3 class="">Our Vision</h3>To provide best I.T services guarded by ethical, moral and professional values.
                                 </div>
                             </div>
                         </div>
@@ -228,7 +229,7 @@
                             <div class="feature-box-type-1">
                                 <i class="icon-alarmclock"></i>
                                 <div class="text">
-                                    <h3>Our core values</h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                    <h3>Our core values</h3>While historians unveil the past, we captured the present and show it to the future..
                                 </div>
                             </div>
                         </div>
@@ -242,9 +243,9 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-8 offset-md-2">
-                                <form action='blank.php' class="row" id='form_sb' method="post" name="myForm">
+                                <form action='#' class="row" id='form_sb' method="post" name="myForm">
                                     <div class="col text-center">
-                                        <h3>Search for your Country/state</h3>
+                                        <h3>Search for more products</h3>
                                         <div class="spacer-10"></div>
                                         <input class="form-control" id='name_1' name='name_1' placeholder="enter country or state name" type='text'> <a href="search-results.html" id="btn-submit"><i class="arrow_right"></i></a>
 
@@ -256,7 +257,7 @@
                                             </div>
 
                                             <div class="ext">
-                                                <h4>Ghana</h4> Kumasi
+                                                <h4>Ghana</h4> Accra
                                             </div>
 
                                             <div class="ext">
@@ -285,7 +286,7 @@
                     <div class="row">
                         <div class="col-md-12 wow fadeInUp">
                             <div class="text-center">
-                                <h2><span class="uptitle id-color">Select Your</span>Lifebits Subscription Plan</h2>
+                                <h2><span class="uptitle id-color">MArvel Networks Company</span>Structure</h2>
                                 <div class="spacer-20"></div>
                             </div>
                         </div>
@@ -296,13 +297,10 @@
                                     <img src="images/icon-shared-hosting.png" class="size96" alt="">
                                     <div class="inner">
                                         <div class="clearfix"></div>
-                                        <h2>Family Indexed</h2>
-                                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                        <p class="price"><span class="txt">Start from</span><span class="currency">NGN</span>
-                                            <span class="num opt-1">5,000</span>
-                                            <span class="num opt-2">10,00</span>
-                                            <span class="month">p/yr</span></p>
-                                        <a href="" class="btn-custom">Sign Up Now</a>
+                                        <h2>National Excutives</h2>
+                                        <p>National Executive Officers.</p>
+                                        
+                                        <a href="#" class="btn-custom">View more</a>
                                     </div>
                                 </div>
                             </div>
@@ -313,13 +311,9 @@
                                     <div class="top">
                                         <img src="images/icon-w-vps-hosting.png" class="size96" alt="">
                                         <div class="clearfix"></div>
-                                        <h2>Coorporate Indexed</h2>
-                                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                        <p class="price"><span class="txt">Start from</span><span class="currency">NGN</span>
-                                            <span class="num opt-1">10,000</span>
-                                            <span class="num opt-2">20,000</span>
-                                            <span class="month">p/yr</span></p>
-                                        <a href="" class="btn-custom">Sign Up Now</a>
+                                        <h2>State Executives</h2>
+                                        <p>State Executive Officers.</p>
+                                        <a href="" class="btn-custom">View more</a>
                                         <div class="clearfix"></div>
                                     </div>
                                 </div>
@@ -331,13 +325,9 @@
                                     <div class="top">
                                         <img src="images/icon-w-vps-hosting.png" class="size96" alt="">
                                         <div class="clearfix"></div>
-                                        <h2>Coorporate Indexed</h2>
-                                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                        <p class="price"><span class="txt">Start from</span><span class="currency">NGN</span>
-                                            <span class="num opt-1">10,000</span>
-                                            <span class="num opt-2">20,000</span>
-                                            <span class="month">p/yr</span></p>
-                                        <a href="" class="btn-custom">Sign Up Now</a>
+                                        <h2>LGA Executives</h2>
+                                        <p>LGA Executive Officers.</p>
+                                        <a href="" class="btn-custom">View more</a>
                                         <div class="clearfix"></div>
                                     </div>
                                 </div>
@@ -350,31 +340,15 @@
                                     <div class="top">
                                         <img src="images/icon-cloud-hosting.png" class="size96" alt="">
                                         <div class="clearfix"></div>
-                                        <h2>MDA Indexed</h2>
-                                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                        <p class="price"><span class="txt">Start from</span><span class="currency">NGN</span>
-                                            <span class="num opt-1">15,000</span>
-                                            <span class="num opt-2">30,000</span>
-                                            <span class="month">p/yr</span></p>
-                                        <a href="" class="btn-custom mb10">Sign Up Now</a>
+                                        <h2>Regional Executives</h2>
+                                        <p>Regional Executive Officers.</p>
+                                        <a href="" class="btn-custom mb10">View more</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="col-md-12">
-                            <div class="switch-set text-center wow fadeInUp" data-wow-delay=".2s">
-                                <div>annualy plan</div>
-                                <div>
-                                    <input id="sw-1" class="switch" type="checkbox" />
-                                </div>
-                                <div>binnualy plan</div>
-                                <div class="spacer-20"></div>
-                            </div>
-                        </div>
-
-                    </div>
-				</div>
+                       </div>
             </section>
 
             <section id="section-banner" class="no-bottom no-top img-fluid bg-gradient-to-right text-light relative pos-top">
@@ -386,15 +360,16 @@
 
                         <div class="col-lg-4 col-md-6">
 							<div class="p-sm-30 pb-sm-0 mb-sm-0">
-								<h2>30 days money back satisfication guarantee</h2>
+								<h4>The project is intended to cover nationwide in all the 774 Local Government Areas of Nigeria 
+                                    covering about 9,288 political wards/settlements.</h4>
 							</div>
                         </div>
 
                         <div class="col-lg-4 col-md-6">
 							<div class="p-sm-30">
-                            <p class="lead">If you not satisfy with Marvel Lifebits, we will refund your payment. No hassle, no risk. You can cancel plan at any time.</p>
+                            <p class="lead">Marvel Networks.</p>
                             <div class="spacer-half"></div>
-                            <a class="btn-custom" href="#">Get Started</a>
+                            <a class="btn-custom" href="register">Register Now</a>
 							</div>
                         </div>
                     </div>
@@ -405,7 +380,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md text-center wow fadeInUp">
-                            <h2><span class="uptitle id-color">Build For Speed</span>Project Features</h2>
+                            <h2><span class="uptitle id-color">Marvel Networks</span>Project Features</h2>
                             <div class="spacer-20"></div>
                         </div>
                     </div>
@@ -460,7 +435,7 @@
                                     <p>Great support, like i have never seen before. Thanks to the support team, they are very helpfull. This company provide customers great solution, that makes them best.
                                     </p>
                                     <div class="de_testi_by">
-                                        <img alt="" class="rounded-circle" src="images/people/1.jpg"> <span>John, Pixar Studio</span>
+                                        <img alt="" class="rounded-circle" src="images/people/1.jpg"> <span>Ahmad, Umar</span>
                                     </div>
                                 </blockquote>
                             </div>
@@ -470,7 +445,7 @@
                                 <blockquote>
                                     <p>Great support, like i have never seen before. Thanks to the support team, they are very helpfull. This company provide customers great solution, that makes them best.</p>
                                     <div class="de_testi_by">
-                                        <img alt="" class="rounded-circle" src="images/people/2.jpg"> <span>Sarah, Microsoft</span>
+                                        <img alt="" class="rounded-circle" src="images/people/2.jpg"> <span>Fatima, Musa</span>
                                     </div>
                                 </blockquote>
                             </div>
@@ -480,7 +455,7 @@
                                 <blockquote>
                                     <p>Great support, like i have never seen before. Thanks to the support team, they are very helpfull. This company provide customers great solution, that makes them best.</p>
                                     <div class="de_testi_by">
-                                        <img alt="" class="rounded-circle" src="images/people/3.jpg"> <span>Michael, Apple</span>
+                                        <img alt="" class="rounded-circle" src="images/people/3.jpg"> <span>Amina, Jibril</span>
                                     </div>
                                 </blockquote>
                             </div>
@@ -490,7 +465,7 @@
                                 <blockquote>
                                     <p>Great support, like i have never seen before. Thanks to the support team, they are very helpfull. This company provide customers great solution, that makes them best.</p>
                                     <div class="de_testi_by">
-                                        <img alt="" class="rounded-circle" src="images/people/4.jpg"> <span>Thomas, Samsung</span>
+                                        <img alt="" class="rounded-circle" src="images/people/4.jpg"> <span>Peter, Moses</span>
                                     </div>
                                 </blockquote>
                             </div>
@@ -500,7 +475,7 @@
                                 <blockquote>
                                     <p>Great support, like i have never seen before. Thanks to the support team, they are very helpfull. This company provide customers great solution, that makes them best.</p>
                                     <div class="de_testi_by">
-                                        <img alt="" class="rounded-circle" src="images/people/1.jpg"> <span>John, Pixar Studio</span>
+                                        <img alt="" class="rounded-circle" src="images/people/1.jpg"> <span>John, David</span>
                                     </div>
                                 </blockquote>
                             </div>
@@ -510,7 +485,7 @@
                                 <blockquote>
                                     <p>Great support, like i have never seen before. Thanks to the support team, they are very helpfull. This company provide customers great solution, that makes them best.</p>
                                     <div class="de_testi_by">
-                                        <img alt="" class="rounded-circle" src="images/people/2.jpg"> <span>Sarah, Microsoft</span>
+                                        <img alt="" class="rounded-circle" src="images/people/2.jpg"> <span>Aminu, Isah</span>
                                     </div>
                                 </blockquote>
                             </div>
@@ -520,7 +495,7 @@
                                 <blockquote>
                                     <p>Great support, like i have never seen before. Thanks to the support team, they are very helpfull. This company provide customers great solution, that makes them best.</p>
                                     <div class="de_testi_by">
-                                        <img alt="" class="rounded-circle" src="images/people/3.jpg"> <span>Michael, Apple</span>
+                                        <img alt="" class="rounded-circle" src="images/people/3.jpg"> <span>Jibril, Aliyu</span>
                                     </div>
                                 </blockquote>
                             </div>
@@ -530,7 +505,7 @@
                                 <blockquote>
                                     <p>Great support, like i have never seen before. Thanks to the support team, they are very helpfull. This company provide customers great solution, that makes them best.</p>
                                     <div class="de_testi_by">
-                                        <img alt="" class="rounded-circle" src="images/people/4.jpg"> <span>Thomas, Samsung</span>
+                                        <img alt="" class="rounded-circle" src="images/people/4.jpg"> <span>Yahya, Ibrahim</span>
                                     </div>
                                 </blockquote>
                             </div>
@@ -543,7 +518,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col text-center wow fadeInUp">
-                            <h2><span class="uptitle id-color">Do You Have</span>Any Questions?</h2>
+                            <h2><span class="uptitle id-color">Frequently</span>Ask Questions?</h2>
                             <div class="spacer-20"></div>
                         </div>
                     </div>
@@ -552,41 +527,35 @@
                             <div class="accordion">
                                 <div class="accordion-section">
                                     <div class="accordion-section-title" data-tab="#accordion-1">
-                                        How do I get started with LIfebits?
+                                        How do I get started with LIfebits project?
                                     </div>
                                     <div class="accordion-section-content" id="accordion-1">
-                                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</p>
-                                    </div>
+                                        <p>LIfeBits Project....                                    </div>
                                     <div class="accordion-section-title" data-tab="#accordion-2">
-                                        What is difference for each plan?
+                                        What is Marvel Networks upto?
                                     </div>
                                     <div class="accordion-section-content" id="accordion-2">
-                                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</p>
-                                    </div>
+                                        <p>Marvel Networks....</div>
                                     <div class="accordion-section-title" data-tab="#accordion-3">
-                                        What kind of subscription do we need for community?
+                                        What kind of subscription do we need for community under LifeBits Project?
                                     </div>
                                     <div class="accordion-section-content" id="accordion-3">
-                                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</p>
-                                    </div>
+                                        <p>LifeBits......</div>
                                     <div class="accordion-section-title" data-tab="#accordion-4">
                                         Why do I need Lifebits?
                                     </div>
                                     <div class="accordion-section-content" id="accordion-4">
-                                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</p>
-                                    </div>
+                                        <p>Because......</div>
                                     <div class="accordion-section-title" data-tab="#accordion-5">
-                                        Are my contents secure and protected?
+                                        Do Marvel Networks have any job Opportunity for the Nigerians?
                                     </div>
                                     <div class="accordion-section-content" id="accordion-5">
-                                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</p>
-                                    </div>
+                                        <p>Marvel Networks.....</div>
                                     <div class="accordion-section-title" data-tab="#accordion-6">
-                                        Can i upload my content myself?
+                                        Can i upload my content myself under Lifebits Project?
                                     </div>
                                     <div class="accordion-section-content" id="accordion-6">
-                                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</p>
-                                    </div>
+                                        <p>LifeBits....</div>
                                 </div>
                             </div>
                         </div>
@@ -634,7 +603,7 @@
                 <div class="container">
                     <div class="row wow fadeInUp">
                         <div class="col text-center">
-                            <h2><span class="uptitle id-color">From Lifebits</span>Latest News</h2>
+                            <h2><span class="uptitle id-color">Marvel Networks</span>Latest News</h2>
                             <div class="spacer-20"></div>
                         </div>
                     </div>
@@ -652,8 +621,8 @@
                                             </div>
                                         </div>
                                         <div class="post-text">
-                                            <h3><a href="news-single.html">How to Choose Good Hosting</a></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <h3><a href="#">How we operate</a></h3>
+                                            <p>MArvel Networks</p>
                                         </div>
                                     </div>
                                 </div>
@@ -663,13 +632,13 @@
                                             <img alt="" src="images/news/2.jpg">
                                             <div class="post-info">
                                                 <div class="inner">
-                                                    <span class="post-date">1 day ago</span> <span class="post-author">Oscar Helman</span>
+                                                    <span class="post-date">1 day ago</span> <span class="post-author">Usman Abubakar</span>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="post-text">
-                                            <h3><a href="news-single.html">Cloud Computing Trends of 2020</a></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <h3><a href="#">Cloud Computing Trends of 2020</a></h3>
+                                            <p>Marvel Networks for Cloud Computing Technologies.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -684,8 +653,8 @@
                                             </div>
                                         </div>
                                         <div class="post-text">
-                                            <h3><a href="news-single.html">How to Speed Up Your Website</a></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <h3><a href="#">How to Speed Up Your Website</a></h3>
+                                            <p>Marvel Networks Technology</p>
                                         </div>
                                     </div>
                                 </div>
@@ -700,8 +669,8 @@
                                             </div>
                                         </div>
                                         <div class="post-text">
-                                            <h3><a href="news-single.html">How to Create Instant Website</a></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <h3><a href="#">Archive</a></h3>
+                                            <p>Marvel Technology</p>
                                         </div>
                                     </div>
                                 </div>
@@ -711,13 +680,13 @@
                                             <img alt="" src="images/news/5.jpg">
                                             <div class="post-info">
                                                 <div class="inner">
-                                                    <span class="post-date">4 days ago</span> <span class="post-author">Oscar Helman</span>
+                                                    <span class="post-date">4 days ago</span> <span class="post-author">Aminu, Ahmad</span>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="post-text">
-                                            <h3><a href="news-single.html">How to Get More Traffics</a></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <h3><a href="#">How to Get More Traffics</a></h3>
+                                            <p>Marvel Networks </p>
                                         </div>
                                     </div>
                                 </div>
@@ -732,8 +701,8 @@
                                             </div>
                                         </div>
                                         <div class="post-text">
-                                            <h3><a href="news-single.html">How Sell Digital Product</a></h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <h3><a href="#">How Sell Digital Product</a></h3>
+                                            <p>Marvel Networks</p>
                                         </div>
                                     </div>
                                 </div>
@@ -755,17 +724,15 @@
                             <div class="row">
                                 <div class="col-md-4 col-xs-4">
                                     <div class="widget">
-                                        <h5>Hosting</h5>
+                                        <h5>Services</h5>
                                         <div class="tiny-border"></div>
                                         <ul>
-                                            <li><a href="#">Web Hosting</a></li>
-                                            <li><a href="#">VPS Hosting</a></li>
-                                            <li><a href="#">Cloud Hosting</a></li>
-                                            <li><a href="#">WordPress Hosting</a></li>
-                                            <li><a href="#">Email Hosting</a></li>
-                                            <li><a href="#">CMS Hosting</a></li>
-                                            <li><a href="#">Ecommerce Hosting</a></li>
-                                            <li><a href="#">Website Builder</a></li>
+                                            <li><a href="#">Archive Technology</a></li>
+                                            <li><a href="#">E-filing Systems</a></li>
+                                            <li><a href="#">Archive System</a></li>
+                                            <li><a href="#">Archive System</a></li>
+                                            <li><a href="#">Archive System</a></li>
+                                            
                                         </ul>
                                     </div>
                                 </div>
@@ -780,9 +747,6 @@
                                             <li><a href="#">Free Domain</a></li>
                                             <li><a href="#">XYZ Domain</a></li>
                                             <li><a href="#">Cheap SSL Certificate</a></li>
-                                            <li><a href="#">Buy Domain Name</a></li>
-                                            <li><a href="#">Whois Checker</a></li>
-                                            <li><a href="#">Free SSL Certificate</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -794,12 +758,9 @@
                                         <ul>
                                             <li><a href="#">About</a></li>
                                             <li><a href="#">Affiliates</a></li>
-                                            <li><a href="#">Blog</a></li>
+                                            <li><a href="#">News Updates</a></li>
                                             <li><a href="#">Careers</a></li>
                                             <li><a href="#">Community</a></li>
-                                            <li><a href="#">News</a></li>
-                                            <li><a href="#">Partners</a></li>
-                                            <li><a href="#">Press Releases</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -808,9 +769,11 @@
 
                         <div class="col-md-4">
                             <div class="widget">
-                                <a href="index.html"><img alt="" class="logo" src="images/logo-light.png"></a>
+                                <a href="/"><img alt="" class="logo" src="images/mnlogo.png" width="100" height="60"></a>
                                 <div class="spacer-20"></div>
-                                <p>We are Marvel Lifebits, a web hosting company with 24/7 customer support. We provide best hosting solutions for your hosting needs. Our clients from personal to corporate. Our data center are all over the world to ensure your website is always up. You can choose shared hosting, vps hosting or cloud hosting. You can also be hosting reseller here. Happy hosting with us.</p>
+                                <p>Marvel network is an ICT based outfit with expertise in information management using ICT resource and 
+                                    approach with a view to organize and provide highly skilled and technical services to our customers 
+                                    to achieve their desired needs.</p>
                             </div>
                         </div>
 
@@ -818,7 +781,7 @@
 
                     <div class="row">
                         <div class="col-md-6 sm-text-center mb-sm-30">
-                            <div class="mt10">&copy; Copyright 2020 - Marvel Lifebits Networks LTD</div>
+                            <div class="mt10">&copy; Copyright 2021 - Marvel Lifebits Networks LTD</div>
                         </div>
 
                         <div class="col-md-6 text-md-right text-sm-left">

@@ -12,6 +12,7 @@ class HomeController extends Controller
         return view('welcome');
     }
     
+
     public function showLoginForm()
     {
         return view('login');
@@ -31,5 +32,21 @@ class HomeController extends Controller
     public function showRegister2Form()
     {
         return view ('register2');
+    }
+    public function showProjectPage()
+    {
+        return view  ('projectpage');
+    }
+    public function showAboutPage()
+    {
+        return view ('aboutpage');
+    }
+    public function showPricingPage()
+    {
+        return view ('pricingpage');
+    }
+    public function showContactPage()
+    {
+    return view ('contactpage');
     }
 }
